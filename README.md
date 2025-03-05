@@ -1,2 +1,2 @@
 # CIL_APVUS
-Sample-pair learning network for highly imbalanced classification
+Sample-pair learning network for extremely imbalanced classification
